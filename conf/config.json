@@ -1,0 +1,9 @@
+{
+    "sdk.crt":"E:/projects/vbs2exe/fiscoConn/conf/crt/19.244/sdk.crt",
+    "sdk.key":"E:/projects/vbs2exe/fiscoConn/conf/crt/19.244/sdk.key",
+    "ca.crt":"E:/projects/vbs2exe/fiscoConn/conf/crt/19.244/ca.crt",
+    "ip":"10.8.19.244",
+    "port":21200,
+    "groupId": 1,
+    "privateKey":"f3c6f48b77b20568662f4b72d9f738267d8d173451e2ecada0d63ea6969c9df9"
+}
